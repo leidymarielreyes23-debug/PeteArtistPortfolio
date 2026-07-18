@@ -1,6 +1,8 @@
 🎨 PeteArtist
 A clean, responsive artist portfolio website that introduces Pete, showcases artwork, and provides an easy way for visitors to connect. Designed with simplicity and creativity in mind, the website highlights artwork through a modern, visually appealing layout.
 
+---
+
 🌐 Live Demo
 https://leidymarielreyes23-debug.github.io/PeteArtist/
 Repository
@@ -81,4 +83,10 @@ GitHub: https://github.com/leidymarielreyes23-debug
 📄 License
 
 This project is open source and available under the MIT License
+
+<img width="1328" height="735" alt="Screen Shot 2026-07-17 at 8 12 41 PM" src="https://github.com/user-attachments/assets/9fe6a098-79a9-4ee8-a318-38b6bff0ecad" />
+
+<img width="1070" height="725" alt="Screen Shot 2026-07-16 at 9 23 49 PM" src="https://github.com/user-attachments/assets/b559aa7f-fb74-4875-a0d1-0f4036cff3f0" />
+
+
 
