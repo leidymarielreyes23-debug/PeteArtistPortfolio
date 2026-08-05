@@ -44,7 +44,66 @@ PeteArtist/
 
 ---
 
+📝 Implementation Planning
+
+Before building the website, I planned the main sections into three parts and organized the content into About, Portfolio, and Contact sections. I used semantic HTML to create a clear page structure and CSS to control the layout, spacing, typography, and responsive behavior.
+I first focused on creating the basic HTML structure, then added CSS styling and adjusted the layout for different screen sizes. I used the following HTML tags:
+<html> – defines the HTML document.
+<head> – contains page information and links to CSS.
+<meta> – provides character encoding and responsive settings.
+<title> – sets the webpage title.
+<link> – connects the webpage to external and custom CSS files.
+<body> – contains all visible webpage content.
+<header> – contains the website title and navigation.
+<h1> – displays the main website title.
+<nav> – contains the main navigation links.
+<a> – creates links to page sections and social media.
+<main> – contains the main webpage content.
+<article> – organizes the About and Portfolio content.
+<h2> – displays the main section headings.
+<h3> – displays the "Pete's Background" subsection heading.
+<p> – organizes text into paragraphs.
+<div> – groups content and images for layout and styling.
+<img> – displays the artist and portfolio images.
+<ul> – creates an unordered list of artistic interests.
+<ol> – creates an ordered list of social media links.
+<li> – defines each item within the lists.
+<hr> – separates the main sections of the webpage.
+<footer> – contains the copyright information.
+After completing the main design, I tested the website in the browser and used the W3C Markup Validation Service to check the HTML for errors.
+
+---
+
+🎨 Design Decisions and Trade-offs
+
+The design was created with simplicity and creativity in mind so that the artwork remains the main focus of the website. I chose a clean layout with clear navigation to make it easy for visitors to move between sections.
+One trade-off was choosing a simple design instead of adding many visual effects. This helped keep the website professional and easy to navigate, but it also means the website could be enhanced in the future with more animations and interactive features.
+I also focused on responsive design so the website could work on both desktop and mobile devices. This required adjusting spacing, sizing, and layout to maintain a consistent experience across different screen sizes.
+
+---
+
+🐛 Challenges and Debugging
+
+One of the main challenges I encountered was creating the navigation section with the About, Portfolio, and Contact links. I had difficulty getting the links properly spaced apart while also keeping the entire navigation centered on the page. I had to adjust different CSS properties, including text-align, margin, padding, and layout positioning, to achieve the look I wanted.
+Another challenge was adjusting the spacing between different sections of the webpage. Some elements had too much space between them, so I tested different CSS properties to bring the content closer together and create a more balanced layout.
+I also used the W3C Markup Validation Service to identify and correct HTML issues. Testing and validating the code helped improve the structure and reliability of the website.
+
+---
+
+🤖 AI Tools Used
+
+I used AI tools in the program Visual studio code as a learning and development resource during this project. AI assistance helped me:
+Understand HTML and CSS concepts
+Troubleshoot layout and spacing issues
+Improve the organization and structure of the README documentation
+Generate ideas for improving accessibility and responsive design
+Review and clarify coding concepts
+AI was used as a support tool, but I reviewed, tested, and implemented the final code and project changes myself.
+
+---
+
 📚 What I Learned
+
 While building this project, I practiced:
 
 Structuring a webpage with semantic HTML
@@ -88,5 +147,6 @@ This project is open source and available under the MIT License
 
 <img width="1070" height="725" alt="Screen Shot 2026-07-16 at 9 23 49 PM" src="https://github.com/user-attachments/assets/b559aa7f-fb74-4875-a0d1-0f4036cff3f0" />
 
+<img width="5760" height="7305" alt="Mood board " src="https://github.com/user-attachments/assets/941259cc-4ebc-4528-99ca-dcfcd826500d" />
 
 
