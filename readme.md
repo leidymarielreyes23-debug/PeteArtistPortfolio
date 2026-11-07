@@ -3,8 +3,7 @@
 ---
 
 🌐 Live Demo 
-
-https://leidymarielreyes23-debug.github.io/PeteArtist/ Repository https://github.com/leidymarielreyes23-debug/PeteArtist Web validator https://validator.w3.org/nu/#textarea
+https://leidymarielreyes23-debug.github.io/PeteArtistPortfolio/ /  Repository https://github.com/leidymarielreyes23-debug/PeteArtist Web validator https://validator.w3.org/nu/#textarea
 
 ---
 
